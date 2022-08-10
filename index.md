@@ -1,3 +1,5 @@
+.
+
 ### Get the game's original source code
 
 The game's source code has been published on [GitHub](https://github.com/open-duelyst/duelyst).
