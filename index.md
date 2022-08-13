@@ -2,9 +2,13 @@
 
 ### Get the game's original source code
 
-The game's source code has been published on [GitHub](https://github.com/open-duelyst/duelyst).
+The game's source code is published on [GitHub](https://github.com/open-duelyst/duelyst).
 
-### Learn how to deploy and run Duelyst game servers
+### Run a game server locally
+
+Coming soon.
+
+### Deploy a game server
 
 Coming soon.
 
