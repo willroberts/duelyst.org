@@ -4,7 +4,7 @@
 
 The game is currently deployed at [https://staging.duelyst.org](https://staging.duelyst.org).
 
-You can go there, create a user, and start playing games!
+You can go there, create a user, and start playing single-player (Practice Mode) games!
 
 Multi-player games are not yet enabled (stay tuned!).
 
