@@ -2,7 +2,7 @@
 
 ### Play single-player games in our staging environment
 
-The game is currently deployed at https://staging.duelyst.org.
+The game is currently deployed at [https://staging.duelyst.org](https://staging.duelyst.org).
 
 You can go there, create a user, and start playing games!
 
