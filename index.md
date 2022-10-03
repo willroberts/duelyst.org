@@ -1,13 +1,25 @@
 .
 
-### Get the game's original source code
+### Play single-player games in our staging environment
+
+The game is currently deployed at https://staging.duelyst.org.
+
+You can go there, create a user, and start playing games!
+
+Multi-player games are not yet enabled (stay tuned!).
+
+### See the game's original source code
 
 The game's source code is published on [GitHub](https://github.com/open-duelyst/duelyst).
 
-### Deploy a game server
+### Contribute to the OpenDuelyst project
 
-Coming soon.
+If you'd like to contribute to the project, start with the README above.
 
-### Play a reference implementation
+Once that's done, check out our [Contributor Guide](https://github.com/open-duelyst/duelyst/blob/main/CONTRIBUTING.md).
 
-Coming soon.
+### Learn how to deploy OpenDuelyst
+
+OpenDuelyst is deployed to [AWS ECS](https://aws.amazon.com/ecs/) with [Terraform](https://www.terraform.io/docs).
+
+The deployment process is documented [here](https://github.com/open-duelyst/duelyst/blob/main/terraform/README.md).
