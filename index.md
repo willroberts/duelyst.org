@@ -1,16 +1,14 @@
 .
 
-### Play single-player games in our staging environment
-
-The game is currently deployed at [https://staging.duelyst.org](https://staging.duelyst.org).
-
-You can go there, create a user, and start playing single-player (Practice Mode) games.
-
-Multi-player games are not yet enabled (stay tuned).
-
 ### See the game's original source code
 
 The game's source code is published on [GitHub](https://github.com/open-duelyst/duelyst).
+
+### Play the game in our staging environment
+
+The game is currently deployed at [https://staging.duelyst.org](https://staging.duelyst.org).
+
+You can go there, create a user, and start playing games.
 
 ### Contribute to the OpenDuelyst project
 
