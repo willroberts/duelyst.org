@@ -14,10 +14,10 @@ You can go there, create a user, and start playing games.
 
 If you'd like to contribute to the project, start with the README above.
 
-Once that's done, check out our [Contributor Guide](https://github.com/open-duelyst/duelyst/blob/main/CONTRIBUTING.md).
+Once that's done, check out our [Contributor Guide](https://github.com/open-duelyst/duelyst/blob/main/docs/CONTRIBUTING.md).
 
 ### Learn how to deploy OpenDuelyst
 
 OpenDuelyst is deployed to [AWS ECS](https://aws.amazon.com/ecs/) with [Terraform](https://www.terraform.io/docs).
 
-The deployment process is documented [here](https://github.com/open-duelyst/duelyst/blob/main/terraform/README.md).
+The infrastructure is documented [here](https://github.com/open-duelyst/duelyst/blob/main/docs/infrastructure/README.md).
