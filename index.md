@@ -10,6 +10,8 @@ The game is currently deployed at [https://staging.duelyst.org](https://staging.
 
 You can go there, create a user, and start playing games.
 
+You can also download desktop clients on our [Releases](https://github.com/open-duelyst/duelyst/releases) page.
+
 ### Contribute to the OpenDuelyst project
 
 If you'd like to contribute to the project, start with the README above.
